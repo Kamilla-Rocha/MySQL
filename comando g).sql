@@ -1,0 +1,1 @@
+select max(salario) as maiorsalario from tb_funcionarios;

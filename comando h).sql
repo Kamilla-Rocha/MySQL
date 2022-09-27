@@ -1,0 +1,1 @@
+select min(salario) as menorsalario from tb_funcionarios;
